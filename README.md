@@ -20,7 +20,7 @@ npm install
 
 ### Backend
 
-Para funcionar o app voçê irá precisar iniciar o backend primeiro. Entre na pasta backend e rode o seguinte comando:
+Para funcionar o app você irá precisar iniciar o backend primeiro. Entre na pasta backend e rode o seguinte comando:
 
 ```sh
 npm dev
